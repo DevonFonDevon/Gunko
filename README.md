@@ -1,2 +1,1 @@
-# Gunko
-fucking sheet 
+
